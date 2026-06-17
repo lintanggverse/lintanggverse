@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 Informatics Engineering Student | Web Developer | Tech Enthusiast
 
-Saya fokus di web development dan sedang membangun skill full-stack development.
+focused on web development and currently building full-stack development skills.
 
 ---
 
