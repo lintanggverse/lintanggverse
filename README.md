@@ -1,19 +1,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Ahmad+LintangBuilding+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
 
 </div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=600&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things)
+
+<img src="./rgb line.gif" width="100%">
+
 <div align="center">  
   <img src="./chill_mario.gif" width="100%">
 </div>
 
 <br>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Ahmad+LintangBuilding+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
-
-</div>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=600&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
 
