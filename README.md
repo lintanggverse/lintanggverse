@@ -1,13 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Ahmad+LintangBuilding+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
-
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=600&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things)
 
-<img src="./rgb line.gif" width="100%">
+<img src="./rgb line.gif" width="80">
 
-<div align="center">  
-  <img src="./chill_mario.gif" width="100%">
+<div align="center">
+  <img src="./chill_mario.gif" width="80%">
 </div>
 
 <br>
@@ -48,9 +47,9 @@ focused on web development and currently building full-stack development skills.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintang&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintangverse&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintang&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=compact&theme=tokyonight)
 
 ---
 
