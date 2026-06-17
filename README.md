@@ -1,4 +1,12 @@
-# Hi there, I'm Lintang 👋
+<div align="center">
+
+# ⚡ LINTANG ROSYADI
+
+### Web Developer • Python Developer • Informatics Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
+
+</div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=600&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things)
 
