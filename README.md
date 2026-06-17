@@ -1,16 +1,15 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Ahmad+LintangBuilding+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
+
+</div>
+<div align="center">  
   <img src="./chill_mario.gif" width="100%">
 </div>
 
 <br>
 
-# ⚡ LINTANG ROSYADI
 
-### WEB DEVELOPER
 
-Building The Future With Code
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Ahmad+LintangBuilding+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
 
 </div>
 
