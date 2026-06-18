@@ -7,15 +7,15 @@
 
 </div>
 
+<div align="center">
+  <img src="./rgb long.gif" width="100%">
+</div>
 
 <div align="center">
   <img src="./chill_mario.gif" width="80%">
 </div>
 
 <br>
-<div align="center">
-  <img src="./rgb long.gif" width="100%">
-</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
 
