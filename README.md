@@ -19,14 +19,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 ## 👨‍💻 About Me
 Informatics Engineering Student | Web Developer | Tech Enthusiast
 
 focused on web development and currently building full-stack development skills.
 
----
 
 ## 🎨 Frontend 
 
@@ -49,7 +47,7 @@ focused on web development and currently building full-stack development skills.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -57,13 +55,13 @@ focused on web development and currently building full-stack development skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=compact&theme=tokyonight)
 
----
+
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
+
 
 ## 🎯 Current Focus
 
