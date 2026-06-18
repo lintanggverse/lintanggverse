@@ -14,7 +14,7 @@
 <div align="center">
   <img src="./chill_mario.gif" width="75%">
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00fff7,100:ff00ff" width="100%">
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
@@ -49,7 +49,7 @@ I'm an Informatics Engineering student who enjoys building web applications and 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintanggverse&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=donut&theme=tokyonight)
 
 
 
