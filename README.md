@@ -1,9 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Ahmad+Lintang+Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Ahmad+Lintang+Rosyadi;Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Learning+By+Building" />
 
 </div>
 
