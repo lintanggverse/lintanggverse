@@ -21,7 +21,10 @@
 
 ---
 ### 👨‍💻 About Me
-I'm an Informatics Engineering student who enjoys building web applications and improving user experiences. Currently focused on expanding my full-stack development skills through personal projects and continuous learning.
+I'm an Informatics Engineering student who enjoys building web applications 
+and improving user experiences. 
+Currently focused on expanding my full-stack development 
+skills through personal projects and continuous learning.
 
 
 ### 🎨 Frontend 
