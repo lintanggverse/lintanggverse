@@ -67,7 +67,7 @@ skills through personal projects and continuous learning.
 - Building real-world web applications
 - Improving UI/UX design skills
 - Learning backend development
-- Exploring Computer Vision with YOLO
+- Growing through personal projects
 
 ---
 
