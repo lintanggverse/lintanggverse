@@ -3,7 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=800&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Always+Learning+New+Things)
 
-<img src="./rgb line.gif" width="">
 
 <div align="center">
   <img src="./chill_mario.gif" width="80%">
