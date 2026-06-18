@@ -25,6 +25,7 @@ Informatics Engineering Student | Web Developer | Tech Enthusiast
 
 focused on web development and currently building full-stack development skills.
 
+---
 
 ## 🎨 Frontend 
 
@@ -46,8 +47,7 @@ focused on web development and currently building full-stack development skills.
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
+---
 
 ## 📊 GitHub Stats
 
