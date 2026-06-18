@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
 </div>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" />
+</p>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Informatics+Engineering+Student;Web+Developer+Enthusiast;Learning+By+Building" />
