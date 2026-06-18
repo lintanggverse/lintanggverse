@@ -57,8 +57,6 @@ I'm an Informatics Engineering student who enjoys building web applications and 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lintanggverse&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lintanggverse&theme=tokyo-night)
-
 
 
 ### 🐍 Contribution Snake
