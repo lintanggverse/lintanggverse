@@ -49,7 +49,7 @@ I'm an Informatics Engineering student who enjoys building web applications and 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintanggverse&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintanggverse&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
