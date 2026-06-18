@@ -21,9 +21,7 @@
 
 ---
 ### 👨‍💻 About Me
-Informatics Engineering Student | Web Developer | Tech Enthusiast
-
-focused on web development and currently building full-stack development skills.
+I'm an Informatics Engineering student who enjoys building web applications and improving user experiences. Currently focused on expanding my full-stack development skills through personal projects and continuous learning.
 
 
 ### 🎨 Frontend 
