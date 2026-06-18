@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Ahmad+Lintang+Rosyadi;Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Building+The+Future+With+Code;Full-Stack+Developer+In+Progress;Always+Learning+New+Technologies" />
 </div>
 
 <div align="center">
