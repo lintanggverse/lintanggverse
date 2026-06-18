@@ -13,6 +13,9 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="./rgb long.gif" width="100%">
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
 
