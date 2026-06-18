@@ -65,11 +65,12 @@ focused on web development and currently building full-stack development skills.
 
 ---
 
-## 🚀 Currently Learning
-- Full-stack web development
-- REST API development
-- System design basics
-- UI/UX improvement
+## 🎯 Current Focus
+
+- Building real-world web applications
+- Improving UI/UX design skills
+- Learning backend development
+- Exploring Computer Vision with YOLO
 
 ---
 
