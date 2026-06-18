@@ -63,7 +63,6 @@ I'm an Informatics Engineering student who enjoys building web applications and 
 </picture>
 
 
-
 ### 🎯 Current Focus
 
 - Building real-world web applications
