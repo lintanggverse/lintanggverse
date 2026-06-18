@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lintang&label=Profile%20views&color=0e75b6&style=flat)
 
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 Informatics Engineering Student | Web Developer | Tech Enthusiast
 
 focused on web development and currently building full-stack development skills.
