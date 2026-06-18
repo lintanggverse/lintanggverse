@@ -71,5 +71,5 @@ skills through personal projects and continuous learning.
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - Email: lintangrosyadi22@email.com   
