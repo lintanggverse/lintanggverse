@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/chill-mario.gif" width="75%" />
+  <img src="./chill-mario.gif" width="75%" />
 </div>
 
 <p align="center">
